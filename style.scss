@@ -1,0 +1,253 @@
+.container{
+    background-image: url('https://media.istockphoto.com/id/1299087866/photo/blue-sportscar-driving-on-a-road.webp?s=1024x1024&w=is&k=20&c=IPZf_OoQL10jDdC0LdR-yszpWoBKfaoFPvJWiNs2e3A=');
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+              
+}
+
+      header{
+display: flex;flex-direction: row;
+justify-content: space-around;
+width:100% ;
+height: auto;
+
+
+}
+.logo  {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    width: 20%;
+    height: 40px;
+    color: aliceblue;
+    margin-top: 3px;
+    svg{ width: 20px; height: 20px; margin-bottom: 22px; margin-left: 4px;}
+  }
+.home{
+    background-color: lightgreen;
+    color:white ;
+    
+}
+nav{
+display: flex;
+justify-content:right ;
+width: 80%;
+height: auto;
+
+ul{
+display: flex;
+justify-content: space-around;
+width: 50%;
+margin: 5px; 
+padding:6px ;
+list-style: none;
+    }
+    li{
+        color: white;
+        margin:3px ;
+        padding:2px ;
+        text-decoration:none ;
+
+    }
+.icons {
+        display: flex;
+        justify-content: space-evenly;
+        width: 100px; 
+        height: auto;
+        svg{ width: 20px; height: 20px; margin-top: 12px; margin-right:5px; }
+      }   
+    
+}
+    
+  span{
+    color:lightgreen ;
+  }
+  .HOME{
+    width:100% ;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0px;
+    top: 20%;
+    z-index: 1;
+      .box{
+      width: 90%;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      .startup{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        width: 50%;
+        height: auto;
+        color: lightgray;
+        text-align: center;
+        h1{
+          font-size:60px;
+          font-family: sans-serif ;
+        }
+        p{
+          font-size:larger ;
+font-family: 'Courier New', Courier, monospace;
+        }
+       .buttons{
+        color: white;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        height: 60px;
+        
+          button{
+          width: 200px;
+          height: 50px;
+          margin-right:10px;
+        }
+       }
+    }
+  }
+    .settings {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 30px;
+      height: 30px;
+      background-color:lightgreen ;
+      color:  white;
+      position: fixed;
+      top: 40%;
+      left: 0;
+         svg{ width: 20px; height: 20px; margin-top: 4px; margin-right:5px; }
+    }  
+  }
+
+  
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
